@@ -1,3 +1,12 @@
+# Team 
+Yashwanth Chithaloori, Masters in Artificial Inteliigence - yashwanthgoud.chithaloori@study.thws.de
+Sai Surya , Masters in Artificial Inteliigence            - saisurya.mada@study.thws.de
+Aliesha Antoni , bachelor cybersecurity                    - alieshaantoni@gmail.com
+Eva Weber ,Cybersecurity                                    - evatigweb@gmail.com
+Öykü Akay Cybersecurity                                      -oyku.akay06@gmail.com
+Meera Elizabeth Stephen  Computer Science                    - meera.elizabeth.s@gmail.com
+
+
 # MAUS-Assistent
 
 A small web app that helps workshop staff fill out the **MAUS assessment form** (Erhebungsbogen A) for a participant, and then creates an **Eingliederungsplan** (integration plan) as a PDF.
