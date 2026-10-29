@@ -1,0 +1,6 @@
+.env
+__pycache__/
+*.pyc
+output/
+# 5 MB third-party source PDF; dik2.json (derived from it) is committed instead
+fb-f312-dik-2.pdf
