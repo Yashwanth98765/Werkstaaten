@@ -78,3 +78,11 @@ def dik_text(trait: str, score: int, limit: int = 600) -> str:
         txt = " ".join(levels[s].split())
         return txt[:limit] + ("…" if len(txt) > limit else "")
     return ""
+
+
+def dik_chunks():
+    """All DIK-2 (characteristic, score) descriptions as retrieval chunks."""
+    for key, levels in _DIK.items():
+        for score, txt in levels.items():
+            yield {"kind": "dik", "kid": "", "source": f"DIK-2 {key.title()} ({score})",
+                   "text": f"{key.title()} ({score}): " + " ".join(txt.split())[:700]}
