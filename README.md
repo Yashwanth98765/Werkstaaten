@@ -72,7 +72,4 @@ To regenerate the fake example data: `python make_sample_data.py`
 | `make_sample_data.py` | Creates the fake example data |
 | `.env.example` | Template for your settings |
 
-## Good to know
 
-- The AI only **suggests**. Staff should always check the scores and text before using them.
-- Never share your `.env` file – it contains your API key.
