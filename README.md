@@ -1,10 +1,14 @@
-# Team 
-Yashwanth Chithaloori, Masters in Artificial Inteliigence - yashwanthgoud.chithaloori@study.thws.de
-Sai Surya , Masters in Artificial Inteliigence            - saisurya.mada@study.thws.de
-Aliesha Antoni , bachelor cybersecurity                    - alieshaantoni@gmail.com
-Eva Weber ,Cybersecurity                                    - evatigweb@gmail.com
-Öykü Akay Cybersecurity                                      -oyku.akay06@gmail.com
-Meera Elizabeth Stephen  Computer Science                    - meera.elizabeth.s@gmail.com
+
+## Team
+
+| Name | Study program | Email |
+|------|---------------|-------|
+| Yashwanth Chithaloori | Masters in Artificial Intelligence | yashwanthgoud.chithaloori@study.thws.de |
+| Sai Surya | Masters in Artificial Intelligence | saisurya.mada@study.thws.de |
+| Aliesha Antoni | Bachelor Cybersecurity | alieshaantoni@gmail.com |
+| Eva Weber | Cybersecurity | evatigweb@gmail.com |
+| Öykü Akay | Cybersecurity | oyku.akay06@gmail.com |
+| Meera Elizabeth Stephen | Computer Science | meera.elizabeth.s@gmail.com |
 
 
 # MAUS-Assistent
