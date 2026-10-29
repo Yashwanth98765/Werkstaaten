@@ -9,7 +9,7 @@
 | Eva Weber | Cybersecurity | evatigweb@gmail.com |
 | Öykü Akay | Cybersecurity | oyku.akay06@gmail.com |
 | Meera Elizabeth Stephen | Computer Science | meera.elizabeth.s@gmail.com |
-
+| Anita Oppelt            | Soziale Arbeit    | Anita.Oppelt@study.thws.de |
 
 # MAUS-Assistent
 
